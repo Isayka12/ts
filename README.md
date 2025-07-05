@@ -4,3 +4,5 @@
 ## HTML CSS JavaScript Git
 ## `console.log("Hello World!");`
 ## [Monovision Studio](https://isayka12.github.io/Monovision-Studio/src/)
+## Basics of programming
+## A2
