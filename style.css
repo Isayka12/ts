@@ -102,9 +102,11 @@ body {
     display: flex;
 }
 
-.networks__a {
+.networks__ul {
     display: flex;
     gap: 30px;
+    list-style: none;
+
 }
 
 .networks__img {
@@ -118,12 +120,20 @@ body {
 
 .inform__skills {
     display: flex;
+
+    ul {
+        list-style: none;
+    }
 }
 
 .link {
     text-decoration: none;
     font-size: 50px;
     color: #101214;
+
+    span {
+        text-decoration: underline;
+    }
 }
 
 .footer__wrapper {
